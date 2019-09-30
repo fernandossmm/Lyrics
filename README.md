@@ -5,8 +5,8 @@ This Rainmeter skin will search for the WebNowPlaying plugin detected song's lyr
 # Installation
 · **Install Rainmeter**.
 
-· **Install and setup Spicetify** *(if you modify it to use another music plugin, please let me know. It's easy, but Spotify is what I use)*.
+· **Install and setup Spicetify**.
 
-· **Install WebNowPlaying Rainmeter plugin**.
+· **Install WebNowPlaying Rainmeter plugin** *(if you modify it to use another music plugin, please let me know. It's easy, but Spotify is what I use)*.
 
 · **Clone this repository and extract it with the rest of your skins**.
