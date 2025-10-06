@@ -1,4 +1,5 @@
 # Lyrics
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white)
 
 This Rainmeter skin will search for the WebNowPlaying plugin detected song's lyrics on the MusixMatch website and display them in an auto-scrolling window. To get Spotify working with this, get [Spicetify](https://spicetify.app/).
 
